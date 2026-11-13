@@ -1,5 +1,9 @@
 # INFJ-Ultra
 
+<p align="center">
+  <img src="assets/infj_post.png" alt="INFJ.skill 小红书梗图" width="380">
+</p>
+
 一个 INFJ（提倡者型人格）思维模式技能，适用于 WorkBuddy / Claude Code / CodeBuddy 等支持 SKILL.md 规范的智能体。
 
 ## 四大核心能力
